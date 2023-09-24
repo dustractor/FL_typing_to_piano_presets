@@ -1,0 +1,52 @@
+1 C7
+2 D7
+3 E7
+4 F7
+5 G7
+6 A7
+7 B7
+8 C8
+9 D8
+0 E8
+- F8
+= G8
+FREE
+FREE
+Q C6
+W D6
+E E6
+R F6
+T G6
+Y A6
+U B6
+I C7
+O D7
+P E7
+[ F7
+] G7
+FREE
+FREE
+A C5
+S D5
+D E5
+F F5
+G G5
+H A5
+J B5
+K C6
+L D6
+; E6
+' F6
+# FREE
+FREE
+FREE
+Z C4
+X D4
+C E4
+V F4
+B G4
+N A4
+M B4
+, C5
+. D5
+/ E5

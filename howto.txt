@@ -1,0 +1,65 @@
+HOW TO MAKE TYPING KEYBOARD TEMPLATES
+
+This file shows the QWERTY keyboard keys and how they map to notes for the major.src file. You can create your own files in any text editor and renaming them .src.
+
+FREE means the key wont send a note, but can still be used for shortcuts. LOCK means the key wont send a note, and can't be used for shortcuts.
+
+You can create chords by separating notes on a line with commas. e.g. G5,A#5,D6. Notes are defined by an octave 1 to 9 and name ABCDEFG.
+
+Your keyboard may be slightly different, just follow the next key in sequence:
+
+1 C7
+2 D7
+3 E7
+4 F7
+5 G7
+6 A7
+7 B7
+8 C8
+9 D8
+0 E8
+- F8
+= G8
+(Backspace) FREE
+
+(Tab) FREE
+Q C6
+W D6
+E E6
+R F6
+T G6
+Y A6
+U B6
+I C7
+O D7
+P E7
+[ F7
+] G7
+\ or (Enter) FREE
+
+(shift) or (Caps Lock) FREE
+A C5
+S D5
+D E5
+F F5
+G G5
+H A5
+J B5
+K C6
+L D6
+; E6
+' F6
+# FREE
+(Enter) or (Shift) FREE
+
+(Shift) or \ FREE
+Z C4
+X D4
+C E4
+V F4
+B G4
+N A4
+M B4
+, C5
+. D5
+? or / E5
